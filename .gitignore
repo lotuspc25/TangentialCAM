@@ -1,0 +1,22 @@
+# Python derleme çıktıları
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Log dosyaları
+*.log
+
+# Sanal ortamlar
+.venv/
+venv/
+env/
+
+# IDE ayar klasörleri
+.vscode/
+.idea/
+*.iml
+
+# İşletim sistemi çöpleri
+.DS_Store
+Thumbs.db
