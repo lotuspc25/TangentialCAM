@@ -1,0 +1,7 @@
+PyQt5
+numpy
+trimesh
+shapely
+matplotlib
+PyOpenGL
+PyOpenGL_accelerate
